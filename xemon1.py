@@ -287,9 +287,9 @@ def menu():
         AFG_CLONING()
   ###  elif select =='2':
        ## random_number()
-    elif select =='3':
+    #elif select =='3':
        #os.system('xdg-open https://chat.whatsapp.com/BB55VxwCx6nGYaI1Dn92u5');menu()
-    else:
+   # else:
         print('\n Select Wrong option ... ')
         time.sleep(2)
         NIX(allkey)
